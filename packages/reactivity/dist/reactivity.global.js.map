@@ -1,0 +1,1 @@
+{"version":3,"file":"reactivity.global.js","sources":["../src/index.ts"],"sourcesContent":["const a = 1\r\nconst b = 2\r\n\r\nexport default {\r\n    a,\r\n    b\r\n}"],"names":[],"mappings":";;;IAAA,MAAM,CAAC,GAAG,CAAC,CAAA;IACX,MAAM,CAAC,GAAG,CAAC,CAAA;AAEX,gBAAe;QACX,CAAC;QACD,CAAC;KACJ;;;;;;;;"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"reactivity.esm-bundler.js","sources":["../src/index.ts"],"sourcesContent":["const a = 1\r\nconst b = 2\r\n\r\nexport default {\r\n    a,\r\n    b\r\n}"],"names":[],"mappings":"AAAA,MAAM,CAAC,GAAG,CAAC,CAAA;AACX,MAAM,CAAC,GAAG,CAAC,CAAA;AAEX,YAAe;IACX,CAAC;IACD,CAAC;CACJ;;;;"}
